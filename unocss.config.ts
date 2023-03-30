@@ -18,9 +18,7 @@ export default defineConfig({
     }),
     presetTypography({
       cssExtend: {
-        "ul,ol": {
-          "list-style-position":"inside"
-        }
+       
       }
     }),
   ],
